@@ -1,0 +1,15 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "w3": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "w3 3000 ./"
+  },
+  "author": "",
+  "license": "ISC"
+}
